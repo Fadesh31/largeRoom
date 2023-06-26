@@ -29,4 +29,5 @@ class LargeRoom {
       this.floortype = floor
     }
   }
-  
+ 
+export default LargeRoom;
