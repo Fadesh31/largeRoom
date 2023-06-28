@@ -26,7 +26,7 @@ class LargeRoom {
       this.doorClosed = doorStatus;
     }
     newFloorType() {
-      this.floortype = floor
+      this.floorType = floor
     }
   }
  
